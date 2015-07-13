@@ -36,7 +36,8 @@
       text-transform: uppercase;
       color: #fff;
       height: 34px;
-      font-family: Neutra2Display-Bold;
+      font-family: Neutra2Display;
+      font-weight: bold;
       line-height: 35px;
       padding-right: 10px;
       border-top: 10px solid #FFF;
