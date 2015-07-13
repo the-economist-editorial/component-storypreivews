@@ -1,7 +1,6 @@
 @import '@economist/component-gridcss';
-@import '@economist/component-customfonts';
 @import '@economist/component-expander';
-
+@import '@economist/component-font-neutra2';
 
 .StoryPreviews {
   overflow: hidden;
